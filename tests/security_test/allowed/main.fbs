@@ -1,0 +1,5 @@
+include "../forbidden/secret.fbs";
+table PublicData {
+  secret: SecretData;
+}
+root_type PublicData;

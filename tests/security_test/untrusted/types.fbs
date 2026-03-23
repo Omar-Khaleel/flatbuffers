@@ -1,0 +1,4 @@
+table Type {
+  id: int;
+  secret_pwn: string;
+}

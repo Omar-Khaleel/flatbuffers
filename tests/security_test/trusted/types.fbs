@@ -1,0 +1,3 @@
+table Type {
+  id: int;
+}

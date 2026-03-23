@@ -1,0 +1,5 @@
+include "../untrusted/types.fbs";
+table Main {
+  t: Type;
+}
+root_type Main;
