@@ -1,0 +1,3 @@
+table AdminData {
+  is_admin: bool = true;
+}

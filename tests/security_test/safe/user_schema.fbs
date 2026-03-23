@@ -1,0 +1,6 @@
+include "../untrusted/types.fbs";
+table UserInput {
+  name: string;
+  admin: Type;
+}
+root_type UserInput;
